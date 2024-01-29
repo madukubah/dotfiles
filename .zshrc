@@ -6,3 +6,6 @@ fi
 export PATH="/opt/homebrew/opt/util-linux/bin:$PATH"
 
 [ -f "/Users/madukubah/.ghcup/env" ] && source "/Users/madukubah/.ghcup/env" # ghcup-env
+
+PROMPT='
+MadukubaH %1~ %# '
